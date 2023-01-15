@@ -1,4 +1,5 @@
-package christmas.u
+package christmas.u;
+
 import java.util.Scanner;
 
 /**
