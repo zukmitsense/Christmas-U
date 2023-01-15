@@ -1,4 +1,4 @@
-package ortonormalnivektora;
+package christmas.u
 import java.util.Scanner;
 
 /**
